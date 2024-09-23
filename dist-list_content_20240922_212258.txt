@@ -1,0 +1,41 @@
+Subject: Test appointment
+From: Unknown
+To: 
+CC: 
+Date: 2016-08-02T00:27:12.621000
+Folder: Top of Personal Folders/Calendar
+Body:
+This is a complete test
+
+--------------------------------------------------
+
+Subject: test dist list
+From: Unknown
+To: 
+CC: 
+Date: 2014-05-25T13:58:59.181000
+Folder: Top of Personal Folders/Contacts
+Body:
+No body text available
+--------------------------------------------------
+
+Subject: contact name 1
+From: Unknown
+To: 
+CC: 
+Date: 2014-05-25T13:58:28.380000
+Folder: Top of Personal Folders/Contacts
+Body:
+No body text available
+--------------------------------------------------
+
+Subject: LocalFreebusy
+From: Unknown sender
+To: 
+CC: 
+Date: Unknown
+Folder: Freebusy Data
+Body:
+No body text available
+--------------------------------------------------
+
